@@ -2,7 +2,7 @@
 
 # Flutter录音APP
 
-一个录音小工具。
+一个录音小工具，[github地址](https://github.com/ThinkerJack/flutter_record)。
 
 ## 1.语言环境
 
