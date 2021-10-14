@@ -1,0 +1,45 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_sound (8.1.9):
+    - Flutter
+    - mobile-ffmpeg-full (= 4.4.LTS)
+    - tau_core (= 8.1.9)
+  - mobile-ffmpeg-full (4.4.LTS)
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - tau_core (8.1.9)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+
+SPEC REPOS:
+  trunk:
+    - mobile-ffmpeg-full
+    - tau_core
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_sound: a23b5cd88c927cd88d0db0e1d8222897809b697e
+  mobile-ffmpeg-full: f17c82219b4ff9e4018b5e21f88b78c28a3475db
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  tau_core: 454483d8e963c24dc0f7a4b75281c9b375f1d3f2
+
+PODFILE CHECKSUM: fe0e1ee7f3d1f7d00b11b474b62dd62134535aea
+
+COCOAPODS: 1.10.1
